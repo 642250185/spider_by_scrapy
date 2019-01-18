@@ -1,0 +1,5 @@
+编写步骤：
+
+1、创建一个项目  scrapy startproject tutorial  
+2、编写目标结构 edit items.py
+4、利用工具生成爬虫 scrapy genspider tencentPostion "tencent.com"
